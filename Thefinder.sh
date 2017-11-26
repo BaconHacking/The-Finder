@@ -137,7 +137,7 @@ then
 	echo -e "$verde      [2]$branco -- ESCANEAR PORTAS ESPECIFICAS"
 	echo
 	echo
-	echo -ne "$verde Quais serao as portas escaneadas:$branco " && read op2
+	echo -ne "$verde Escolha a opcao desejada:$branco " && read op2
 
 elif [ $option -eq 2 ]
 then
