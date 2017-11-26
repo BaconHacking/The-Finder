@@ -11,4 +11,6 @@ chmod +x Thefinder.sh
 
 seja feliz :D
 
+![alt text](https://github.com/BaconHacking/The-Finder/blob/master/Thefinder.png)
+
 
