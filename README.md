@@ -1,5 +1,5 @@
 # The-Finder
-Escaneie sua rede no piscar de olhos!
+Escaneie sua rede em um piscar de olhos!
 
 Requisitos:
 
