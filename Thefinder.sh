@@ -185,7 +185,7 @@ then
 elif [ $op2 -eq 2 ]
 then
 	echo
-	echo -ne "$verde Qual serao as portas a serem escaneadas?(Entre virgulas) Ex:22,23,443:$branco " && read intervalo2
+	echo -ne "$verde Quais serao as portas a serem escaneadas?(Entre virgulas) Ex:22,23,443:$branco " && read intervalo2
 	echo
 	echo -e "$verde Escaneando..."
 	echo -e " Isso pode demorar um pouco..."
